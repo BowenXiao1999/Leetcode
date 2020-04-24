@@ -7,3 +7,5 @@
 |121. Best Time to Buy and Sell Stock|[Golang](./go/description/121.md)|
 |540. Single Element in a Sorted Array|[Golang](./go/description/540.md)|
 |153. Find Minimum in Rotated Sorted Array|[Golang](./go/description/153.md)|
+|160. Intersection of Two Linked Lists|[Golang](./go/description/160.md)|
+|599. Minimum Index Sum of Two Lists|[Golang](./go/description/599.md)|
