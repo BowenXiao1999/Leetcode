@@ -9,3 +9,5 @@
 |153. Find Minimum in Rotated Sorted Array|[Golang](./go/description/153.md)|
 |160. Intersection of Two Linked Lists|[Golang](./go/description/160.md)|
 |599. Minimum Index Sum of Two Lists|[Golang](./go/description/599.md)|
+|206. Reverse Linked List|[Golang](./go/description/206.md)|
+|92. Reverse Linked List II|[Golang](./go/description/92.md)|
