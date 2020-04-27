@@ -11,3 +11,5 @@
 |599. Minimum Index Sum of Two Lists|[Golang](./go/description/599.md)|
 |206. Reverse Linked List|[Golang](./go/description/206.md)|
 |92. Reverse Linked List II|[Golang](./go/description/92.md)|
+|309. Best Time to Buy and Sell Stock with Cooldown|[Golang](./go/description/309.md)|
+|19. Remove Nth Node From End of List|[Golang](./go/description/19.md)|
